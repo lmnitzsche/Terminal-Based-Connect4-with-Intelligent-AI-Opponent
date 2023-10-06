@@ -433,7 +433,7 @@ int aiDecision(char board[][10], player activePlayer, int dropChoice)
 				}
 			}
 		}
-		}
+}
 			
 
 //Function to place discs on the board
