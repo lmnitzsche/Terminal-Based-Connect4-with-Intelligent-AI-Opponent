@@ -1,6 +1,6 @@
 # Connect 4 Game & Artificial Intelligence
 
-This project features a terminal-based Connect 4 game with an artificial intelligence (AI) opponent. Developed by Logan Nitzsche, this game provides an entertaining and challenging experience for players of all skill levels.
+This project features a terminal-based Connect 4 game with an artificial intelligence (AI) opponent that provides an entertaining and challenging experience for players of all skill levels.
 
 ## Introduction
 
