@@ -22,12 +22,12 @@ To enjoy this Connect 4 game on your local machine, follow these simple steps:
 
 2. **Compile the Source Code:** Navigate to the project directory and compile the C++ source code using your preferred C++ compiler. For example, using `g++`:
     ```bash
-    g++ connect4.cpp -o connect4
+    g++ main.cpp -o main
     ```
 
 3. **Run the Executable:** Once compiled successfully, run the executable file.
     ```bash
-    ./connect4
+    ./main
     ```
 
 4. **Follow On-Screen Prompts:** Enter your name, respond to the rules prompt, and start playing! Remember to wait for prompts before entering your input to avoid any issues.
